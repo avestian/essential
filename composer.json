@@ -1,0 +1,21 @@
+{
+    "name": "avestian/essential",
+    "description": "Essential Library for Avestian Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Avestian\\Essential\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuka Astersia",
+            "email": "yuka.astersia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    }
+}
